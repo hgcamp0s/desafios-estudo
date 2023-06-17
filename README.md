@@ -1,2 +1,2 @@
-# desafios-estudo
+# Exercícios Resolvidos
 Algoritmos com C#
